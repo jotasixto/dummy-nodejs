@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/jotasixto/dummy-nodejs/compare/v1.0.0...v1.0.1) (2024-10-22)
+
+
+### Bug Fixes
+
+* **sync-efs-volumes:** package name ([cf4490c](https://github.com/jotasixto/dummy-nodejs/commit/cf4490c1e2336ff46c3380efd055c40f9c3e87ec))
+
 # 1.0.0 (2024-10-22)
 
 
