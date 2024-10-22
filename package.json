@@ -4,7 +4,7 @@
   "description": "Dummy nodejs project",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "keywords": [],
   "author": "",
@@ -21,6 +21,8 @@
     "@semantic-release/git": "^10.0.1",
     "@semantic-release/github": "^11.0.0",
     "@semantic-release/npm": "^12.0.1",
+    "assert": "^2.1.0",
+    "mocha": "^10.7.3",
     "semantic-release": "^24.1.3"
   }
 }
