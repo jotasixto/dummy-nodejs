@@ -1,5 +1,5 @@
 {
-  "name": "dummy-nodejs",
+  "name": "@jotasixto/dummy-nodejs",
   "version": "1.0.0",
   "description": "Dummy nodejs project",
   "main": "src/index.js",
