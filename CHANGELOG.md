@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/jotasixto/dummy-nodejs/compare/v1.0.1...v1.0.2) (2024-10-22)
+
+
+### Bug Fixes
+
+* package git url reference ([fed4e34](https://github.com/jotasixto/dummy-nodejs/commit/fed4e34f763524eee6e1fb4e08d50270c4935d88))
+
 ## [1.0.1](https://github.com/jotasixto/dummy-nodejs/compare/v1.0.0...v1.0.1) (2024-10-22)
 
 
