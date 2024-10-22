@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/jotasixto/dummy-nodejs/compare/v1.0.2...v1.0.3) (2024-10-22)
+
+
+### Bug Fixes
+
+* dummy change ([8e5cb92](https://github.com/jotasixto/dummy-nodejs/commit/8e5cb92f0b41bc7aeba4ce408350a2203d28552c))
+
 ## [1.0.2](https://github.com/jotasixto/dummy-nodejs/compare/v1.0.1...v1.0.2) (2024-10-22)
 
 
